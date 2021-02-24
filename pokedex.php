@@ -1,6 +1,6 @@
 <?php
 if (isset($_GET['poke-id'])=== false){
-    $pokeID = 200;
+    $pokeID = 34;
 } else {
     $pokeID= $_GET['poke-id'];
 }
